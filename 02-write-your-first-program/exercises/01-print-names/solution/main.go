@@ -16,6 +16,6 @@ import "fmt"
 // ./solution
 
 func main() {
-	fmt.Println("Joe")
-	fmt.Println("Doe")
+	fmt.Println("Joel")
+	fmt.Println("Doel")
 }
